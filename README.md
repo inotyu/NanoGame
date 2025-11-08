@@ -25,7 +25,7 @@
 - ✅ Unique and original implementation
 
 ### 🎯 Objective
-- Collect all **energy fruits** (5 in total)
+- Collect all **energy fruits** (8 in total)
 - Avoid contact with the **viruses** patrolling the area
 - Survive with your **3 health points**
 - Defeat the infection!
@@ -119,7 +119,7 @@ pgzrun game_pgzero.py
 **Resolução:** 800×480 px
 
 ### 🎯 Objetivo
-- Coletar todas as **frutas de energia** (5 no total)
+- Coletar todas as **frutas de energia** (8 no total)
 - Evitar contato com os **vírus** que patrulham a área
 - Sobreviver com seus **3 pontos de vida**
 - Vencer a infecção!
