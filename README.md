@@ -1,8 +1,8 @@
 # 🦠 NanoVirus Outbreak
 
 ### Select Your Language / Selecione seu Idioma
-[![English](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/50px-Flag_of_the_United_Kingdom_%283-5%29.svg.png)](#-english-instructions)  
-[![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/45px-Flag_of_Brazil.svg.png)](#-instruções-em-português)
+[![English](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-8%29.svg/80px-Flag_of_the_United_Kingdom_%283-8%29.svg.png)](#-english-instructions)  
+[![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Brazil.svg/48px-Flag_of_Brazil.svg.png)](#-instruções-em-português)
 
 ## 🇬🇧 English Instructions
 
@@ -52,7 +52,7 @@
 - 3 viruses scattered through the level
 
 #### 🍓 Energy Fruits
-- **5 fruits** to collect
+- **8 fruits** to collect
 - Floating animation
 - Collection sound when picked up
 - Victory when all are collected
@@ -146,7 +146,7 @@ pgzrun game_pgzero.py
 - 3 vírus espalhados pela fase
 
 #### 🍓 Frutas de Energia
-- **5 frutas** para coletar
+- **8 frutas** para coletar
 - Animação flutuante
 - Som de coleta ao pegar
 - Vitória ao coletar todas
@@ -277,7 +277,7 @@ pgzrun game_pgzero.py
 2. **Pule com cuidado**: Você não pode pular no ar
 3. **Invencibilidade**: Use o tempo de invencibilidade após levar dano
 4. **Explore**: Algumas frutas estão em posições mais altas
-5. **Não tenha pressa**: Observe os padrões dos vírus
+8. **Não tenha pressa**: Observe os padrões dos vírus
 
 ## 🔧 Personalização
 
@@ -293,7 +293,7 @@ Você pode facilmente modificar:
 
 Este jogo foi desenvolvido 100% do zero, sem uso de templates ou código de terceiros. Todas as mecânicas, classes e funções foram criadas especificamente para este projeto.
 
-**Total de linhas:** ~458 linhas  
+**Total de linhas:** ~488 linhas  
 **Padrão de código:** PEP8  
 **Linguagem:** Python 3  
 **Framework:** Pygame Zero  
